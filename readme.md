@@ -6,3 +6,5 @@ It is a MITM FTPS proxy/application gateway that applies a fix to the PASV respo
 
 The code was composed by ChatGPT after an extensive process of prompting and iterating. It seems
 to work, based on light testing. In the end, I would have come out ahead if I had written it myself.
+
+*** INCOMPLETE *** Limited to retrieving the remote directory from the printer
